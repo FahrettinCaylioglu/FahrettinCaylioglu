@@ -4,7 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="left"> Hey there, I am Fahrettin😁 </h1> <p> <br>I'm a aspiring software develover. <br>My readme is a work in progress, so more items will be added in the future.</p>
+<h1 data-importer="text" align="left"> Hey there, I am Fahrettin😁 </h1> <p> <br>I'm a aspiring software develover. <br>My readme is a work in progress, so more items and projects will be added in the future.</p>
 
 ###
 
